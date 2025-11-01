@@ -1,4 +1,6 @@
+No ship has been initialized
 SUCCESS  # <- GT4500
 SUCCESS  # <- TORPEDO
 SUCCESS  # <- TORPEDO
 SUCCESS  # <- TORPEDO
+Unknown command: 'TEST'
