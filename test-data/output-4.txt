@@ -5,3 +5,4 @@ SUCCESS
 FAIL
 SUCCESS
 FAIL
+Unknown firing mode: 'LASER'
