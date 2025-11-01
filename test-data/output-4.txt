@@ -1,0 +1,8 @@
+SUCCESS
+SUCCESS
+FAIL
+SUCCESS
+FAIL
+SUCCESS
+FAIL
+Unknown firing mode: 'LASER'
